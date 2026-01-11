@@ -1,0 +1,156 @@
+{
+    "asset_events": [
+      {
+        "event_type": "cancel",
+        "order_hash": "string",
+        "maker": "string",
+        "event_timestamp": 0,
+        "nft": {
+          "identifier": "string",
+          "collection": "string",
+          "contract": "string",
+          "token_standard": "string",
+          "name": "string",
+          "description": "string",
+          "image_url": "",
+          "display_image_url": "",
+          "display_animation_url": "",
+          "metadata_url": "",
+          "opensea_url": "",
+          "updated_at": "string",
+          "is_disabled": true,
+          "is_nsfw": true
+        }
+      },
+      {
+        "event_type": "order",
+        "order_hash": "string",
+        "order_type": {},
+        "protocol_address": "string",
+        "start_date": 0,
+        "expiration_date": 0,
+        "asset": {
+          "identifier": "string",
+          "collection": "string",
+          "contract": "string",
+          "token_standard": "string",
+          "name": "string",
+          "description": "string",
+          "image_url": "",
+          "display_image_url": "",
+          "display_animation_url": "",
+          "metadata_url": "",
+          "opensea_url": "",
+          "updated_at": "string",
+          "is_disabled": true,
+          "is_nsfw": true
+        },
+        "quantity": 0,
+        "maker": "string",
+        "taker": "string",
+        "payment": {
+          "quantity": "string",
+          "token_address": "string",
+          "decimals": 0,
+          "symbol": "string"
+        },
+        "criteria": {
+          "collection": {
+            "slug": "string"
+          },
+          "contract": {
+            "address": "string"
+          },
+          "trait": {
+            "type": "string",
+            "value": "string"
+          },
+          "encoded_token_ids": "string"
+        },
+        "event_timestamp": 0,
+        "is_private_listing": true
+      },
+      {
+        "event_type": "sale",
+        "order_hash": "string",
+        "protocol_address": "string",
+        "closing_date": 0,
+        "nft": {
+          "identifier": "string",
+          "collection": "string",
+          "contract": "string",
+          "token_standard": "string",
+          "name": "string",
+          "description": "string",
+          "image_url": "",
+          "display_image_url": "",
+          "display_animation_url": "",
+          "metadata_url": "",
+          "opensea_url": "",
+          "updated_at": "string",
+          "is_disabled": true,
+          "is_nsfw": true
+        },
+        "quantity": 0,
+        "seller": "string",
+        "buyer": "string",
+        "payment": {
+          "quantity": "string",
+          "token_address": "string",
+          "decimals": 0,
+          "symbol": "string"
+        },
+        "transaction": "string",
+        "event_timestamp": 0
+      },
+      {
+        "event_type": "transfer",
+        "transaction": "string",
+        "from_address": "string",
+        "to_address": "string",
+        "quantity": 0,
+        "nft": {
+          "identifier": "string",
+          "collection": "string",
+          "contract": "string",
+          "token_standard": "string",
+          "name": "string",
+          "description": "string",
+          "image_url": "",
+          "display_image_url": "",
+          "display_animation_url": "",
+          "metadata_url": "",
+          "opensea_url": "",
+          "updated_at": "string",
+          "is_disabled": true,
+          "is_nsfw": true
+        },
+        "event_timestamp": 0
+      },
+      {
+        "event_type": "redemption",
+        "from_address": "string",
+        "to_address": "string",
+        "asset": {
+          "identifier": "string",
+          "collection": "string",
+          "contract": "string",
+          "token_standard": "string",
+          "name": "string",
+          "description": "string",
+          "image_url": "",
+          "display_image_url": "",
+          "display_animation_url": "",
+          "metadata_url": "",
+          "opensea_url": "",
+          "updated_at": "string",
+          "is_disabled": true,
+          "is_nsfw": true
+        },
+        "quantity": 0,
+        "transaction": "string",
+        "event_timestamp": 0
+      }
+    ],
+    "next": "string"
+  }

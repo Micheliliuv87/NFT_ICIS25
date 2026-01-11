@@ -1,0 +1,208 @@
+Feature,MeanDecreaseMSE_log,Std
+sale_1_month_2021-08,0.05496571985889389,0.00422043447025058
+sale_1_month_2022-05,0.02239117916232003,0.003492380173562507
+sale_1_month_2022-01,0.01723490748169578,0.0037567264820761383
+sale_1_month_2022-03,0.012902025761421632,0.002384078790223949
+sale_1_month_2022-04,0.010035276549361405,0.0015263030849730099
+sale_1_month_2021-12,0.005434349067504551,0.0016706239698862123
+sale_1_month_2022-06,0.003322151940041973,0.0005150216584236101
+Fur_Solid Gold,0.002723054268341407,0.002105988287779488
+sale_1_month_2022-11,0.0020043234617525886,0.00029588237675946496
+sale_1_month_2022-02,0.0016739105486856865,0.0016536921373707996
+sale_1_month_2021-11,0.001632767492142606,0.00017954209637650038
+sale_1_month_2022-12,0.0015810309037308733,0.0002857922395930387
+sale_1_month_2023-04,0.0015321097036197218,0.00022657578131677968
+Fur_Cheetah,8.9826355251299e-05,0.00014468235668661938
+Fur_Dark Brown,6.700668443417878e-05,0.0001023546118415991
+Mouth_Rage,6.319148572697664e-05,0.0001895744571809299
+Hat_Commie Hat,4.5147520833555e-05,9.310723757891249e-05
+Hat_Laurel Wreath,4.03592294387467e-05,0.0001210776883162401
+Eyes_Heart,3.943445818332947e-05,0.0
+Eyes_Sad,3.557208755784469e-05,2.3670649944467775e-05
+Clothes_Vietnam Jacket,2.9048839344203438e-05,6.056714748842008e-05
+sale_1_month_2022-07,2.5241899277061997e-05,0.0011677317155783676
+Eyes_Bored,2.251824769343713e-05,2.2842489673434063e-05
+Eyes_Coins,2.0286693796300882e-05,2.068846402287816e-05
+Hat_Halo,6.212310830111533e-06,8.946975568721242e-06
+Fur_Blue,5.624465077458396e-06,1.6873395232375188e-05
+Background_New Punk Blue,4.263544461191593e-06,1.0295935121922314e-05
+Clothes_Striped Tee,3.8131190144063964e-06,1.1439357043219189e-05
+Hat_Bunny Ears,1.851094130000952e-06,1.2420302537285954e-05
+Clothes_Biker Vest,1.8167719867179243e-06,8.160653097023441e-06
+Mouth_Bored Unshaven Cigarette,2.534392879116609e-07,1.330384248560293e-06
+Eyes_Sunglasses,9.516934249553798e-08,2.85508027486614e-07
+Eyes_Holographic,0.0,0.0
+Hat_Bayc Hat Black,0.0,0.0
+Hat_Bayc Hat Red,0.0,0.0
+Hat_Beanie,0.0,0.0
+Hat_Bowler,0.0,0.0
+Eyes_Eyepatch,0.0,0.0
+Fur_Zombie,0.0,0.0
+Hat_Cowboy Hat,0.0,0.0
+Hat_Fez,0.0,0.0
+Hat_Girl's Hair Pink,0.0,0.0
+Hat_Girl's Hair Short,0.0,0.0
+Eyes_Cyborg,0.0,0.0
+Hat_Bandana Blue,0.0,0.0
+Fur_White,0.0,0.0
+Eyes_Wide Eyed,0.0,0.0
+Eyes_Hypnotized,0.0,0.0
+Fur_Robot,0.0,0.0
+Fur_Red,0.0,0.0
+Fur_Noise,0.0,0.0
+Fur_Gray,0.0,0.0
+Fur_Dmt,0.0,0.0
+Fur_Death Bot,0.0,0.0
+Eyes_Robot,0.0,0.0
+Eyes_Scumbag,0.0,0.0
+Fur_Brown,0.0,0.0
+Hat_Horns,0.0,0.0
+Eyes_Zombie,0.0,0.0
+Eyes_X Eyes,0.0,0.0
+Eyes_Sleepy,0.0,0.0
+sale_1_month_2021-06,0.0,0.0
+Hat_Safari,0.0,0.0
+Hat_Irish Boho,0.0,0.0
+Mouth_Grin,0.0,0.0
+Mouth_Bored Unshaven Cigar,0.0,0.0
+Mouth_Bored Unshaven Dagger,0.0,0.0
+Mouth_Bored Unshaven Kazoo,0.0,0.0
+Mouth_Bored Unshaven Party horn,0.0,0.0
+Mouth_Bored Unshaven Pipe,0.0,0.0
+Mouth_Bored Unshaven Pizza,0.0,0.0
+Mouth_Discomfort,0.0,0.0
+Mouth_Dumbfounded,0.0,0.0
+Mouth_Grin Diamond Grill,0.0,0.0
+Mouth_Bored Pizza,0.0,0.0
+Mouth_Grin Gold Grill,0.0,0.0
+Mouth_Grin Multicolored,0.0,0.0
+Mouth_Jovial,0.0,0.0
+Mouth_Phoneme L,0.0,0.0
+Mouth_Phoneme Oh,0.0,0.0
+Mouth_Phoneme Vuh,0.0,0.0
+Mouth_Phoneme Wah,0.0,0.0
+Mouth_Small Grin,0.0,0.0
+Mouth_Bored Unshaven Bubblegum,0.0,0.0
+Mouth_Bored Pipe,0.0,0.0
+Hat_King's Crown,0.0,0.0
+Hat_Spinner Hat,0.0,0.0
+Hat_Party Hat 1,0.0,0.0
+Hat_Party Hat 2,0.0,0.0
+Hat_Police Motorcycle Helmet,0.0,0.0
+Hat_Prussian Helmet,0.0,0.0
+Hat_S&m Hat,0.0,0.0
+Hat_Sea Captain's Hat,0.0,0.0
+Hat_Seaman's Hat,0.0,0.0
+Hat_Short Mohawk,0.0,0.0
+Hat_Stuntman Helmet,0.0,0.0
+Mouth_Bored Party Horn,0.0,0.0
+Hat_Sushi Chef Headband,0.0,0.0
+Hat_Trippy Captain's Hat,0.0,0.0
+Hat_Vietnam Era Helmet,0.0,0.0
+Hat_Ww2 Pilot Helm,0.0,0.0
+Mouth_Bored Bubblegum,0.0,0.0
+Mouth_Bored Cigar,0.0,0.0
+Mouth_Bored Dagger,0.0,0.0
+Mouth_Bored Kazoo,0.0,0.0
+Eyes_Crazy,0.0,0.0
+Eyes_Blue Beams,0.0,0.0
+Eyes_Closed,0.0,0.0
+sale_1_month_2024-08,0.0,0.0
+sale_1_month_2024-10,0.0,0.0
+sale_1_month_2024-11,0.0,0.0
+sale_1_month_2024-12,0.0,0.0
+sale_1_month_2025-01,0.0,0.0
+sale_1_month_2025-02,0.0,0.0
+sale_1_month_2025-03,0.0,0.0
+Background_Gray,0.0,0.0
+Background_Orange,0.0,0.0
+Background_Purple,0.0,0.0
+Clothes_Bandolier,0.0,0.0
+Clothes_Bayc T Black,0.0,0.0
+Clothes_Bayc T Red,0.0,0.0
+Clothes_Black Holes T,0.0,0.0
+Clothes_Black Suit,0.0,0.0
+Clothes_Black T,0.0,0.0
+Clothes_Blue Dress,0.0,0.0
+Clothes_Bone Necklace,0.0,0.0
+Clothes_Caveman Pelt,0.0,0.0
+Clothes_Cowboy Shirt,0.0,0.0
+sale_1_month_2024-09,0.0,0.0
+sale_1_month_2024-07,0.0,0.0
+Clothes_Hawaiian,0.0,0.0
+sale_1_month_2024-06,0.0,0.0
+sale_1_month_2021-09,0.0,0.0
+sale_1_month_2021-10,0.0,0.0
+sale_1_month_2022-08,0.0,0.0
+sale_1_month_2022-10,0.0,0.0
+sale_1_month_2023-02,0.0,0.0
+sale_1_month_2023-03,0.0,0.0
+sale_1_month_2023-05,0.0,0.0
+sale_1_month_2023-06,0.0,0.0
+sale_1_month_2023-07,0.0,0.0
+sale_1_month_2023-08,0.0,0.0
+sale_1_month_2023-09,0.0,0.0
+sale_1_month_2023-10,0.0,0.0
+sale_1_month_2023-11,0.0,0.0
+sale_1_month_2023-12,0.0,0.0
+sale_1_month_2024-01,0.0,0.0
+sale_1_month_2024-02,0.0,0.0
+sale_1_month_2024-03,0.0,0.0
+sale_1_month_2024-04,0.0,0.0
+sale_1_month_2024-05,0.0,0.0
+Clothes_Guayabera,0.0,0.0
+Clothes_Bone Tee,0.0,0.0
+Clothes_Sleeveless T,0.0,0.0
+Clothes_Toga,0.0,0.0
+Clothes_Service,0.0,0.0
+Clothes_Sleeveless Logo T,0.0,0.0
+Clothes_Hip Hop,0.0,0.0
+Clothes_Smoking Jacket,0.0,0.0
+Clothes_Space Suit,0.0,0.0
+Clothes_Stunt Jacket,0.0,0.0
+Clothes_Tanktop,0.0,0.0
+Clothes_Tie Dye,0.0,0.0
+Clothes_Tuxedo Tee,0.0,0.0
+Clothes_Rainbow Suspenders,0.0,0.0
+Clothes_Tweed Suit,0.0,0.0
+Clothes_Wool Turtleneck,0.0,0.0
+Clothes_Work Vest,0.0,0.0
+Earring_Gold Hoop,0.0,0.0
+Earring_Gold Stud,0.0,0.0
+Eyes_Angry,0.0,0.0
+Eyes_Blindfold,0.0,0.0
+Eyes_Bloodshot,0.0,0.0
+Clothes_Sailor Shirt,0.0,0.0
+Mouth_Tongue Out,0.0,0.0
+Clothes_Navy Striped Tee,0.0,0.0
+Clothes_Prison Jumpsuit,0.0,0.0
+Clothes_Kings Robe,0.0,0.0
+Clothes_Lab Coat,0.0,0.0
+Clothes_Leather Punk Jacket,0.0,0.0
+Clothes_Lumberjack Shirt,0.0,0.0
+Clothes_Puffy Vest,0.0,0.0
+Clothes_Pimp Coat,0.0,0.0
+Clothes_Prom Dress,0.0,0.0
+Hat_Baby's Bonnet,-4.69933981284143e-08,1.409801943852429e-07
+Fur_Pink,-5.955452957451257e-08,1.9264001238968463e-07
+Hat_Fisherman's Hat,-6.363225437677756e-08,1.908967631303327e-07
+Earring_Silver Hoop,-7.565465698133878e-07,1.9275270027164138e-06
+Fur_Cream,-1.0006615047242207e-06,3.001984514172662e-06
+Mouth_Bored Cigarette,-1.0438808853985293e-06,2.9903555501190332e-06
+Hat_Faux Hawk,-1.0951158616157031e-06,2.7695577115911377e-06
+Fur_Tan,-1.2673573120514093e-06,5.339604302111192e-06
+Hat_Bayc Flipped Brim,-2.3698145649397873e-06,7.109443694819362e-06
+Mouth_Phoneme  ooo,-3.3812018522816345e-06,6.76240370456327e-06
+Background_Yellow,-4.373087608566806e-06,8.030659727214754e-06
+Earring_Silver Stud,-5.797080898450879e-06,1.5565296155023235e-05
+sale_1_month_2021-07,-7.1699094642330156e-06,1.4339818928466031e-05
+Background_Blue,-7.506238484733529e-06,6.83057340945511e-06
+sale_1_month_2023-01,-9.04379216897233e-06,1.4348819036060192e-05
+sale_1_month_2022-09,-1.2628424920624327e-05,2.749755367859625e-05
+Background_Army Green,-1.5307112976881144e-05,1.5071270585992232e-05
+Clothes_Leather Jacket,-1.5554407955131743e-05,1.3825278236001124e-05
+Fur_Golden Brown,-2.330118033315731e-05,1.1246121367999517e-05
+Earring_Diamond Stud,-2.7982622112143753e-05,2.552955357461309e-05
+Mouth_Bored Unshaven,-7.45028518143398e-05,5.503413547995527e-05
+Eyes_Laser Eyes,-0.0002610516048426881,0.0009798166920729921
+Fur_Trippy,-0.0007945304603257819,0.00126162676512794
